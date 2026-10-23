@@ -1,7 +1,7 @@
 ---
 title: "On the Universal Truthfulness Hyperplane Inside LLMs"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/2024-Universal-Truthfulness-Hyperplane
 excerpt: 'Junteng Liu (first author). Published at EMNLP 2024. Code: Universal_Truthfulness_Hyperplane.'
 date: 2024-01-01
