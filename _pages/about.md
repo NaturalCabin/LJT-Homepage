@@ -1,6 +1,10 @@
 ---
-# the default layout is 'home'
-layout: home
+permalink: /
+title: "About"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
 ---
 
 I am Junteng Liu, a first-year PhD candidate at the HKUST NLP Group, supervised by Professor Junxian He. My research focuses on natural language processing and machine learning.
