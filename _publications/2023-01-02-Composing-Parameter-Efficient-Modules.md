@@ -1,7 +1,7 @@
 ---
 title: "Composing Parameter-Efficient Modules with Arithmetic Operations"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/2023-Composing-Parameter-Efficient-Modules
 excerpt: 'Co-authored by Junteng Liu. Published at NeurIPS 2023.'
 date: 2023-01-02
